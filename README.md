@@ -44,9 +44,7 @@ Para executar a aplicação é necessário a execução do Script do MySql.
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 
 ```bash
-...
-		server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
-...
+server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
 
 ```
 
