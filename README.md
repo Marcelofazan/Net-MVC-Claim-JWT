@@ -36,7 +36,7 @@ adminlte
 #### Execução da aplicação
 - Para executar a aplicação é necessário a execução do Script do MySql. 
 
-#### 🔐 String de conexão do banco
+#### ⚠️ String de conexão do banco
 
 - Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 ```bash
