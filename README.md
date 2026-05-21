@@ -33,8 +33,8 @@ adminlte
 | **Claims** | Autorização com contexto Header para compartilhar dados da aplicação com segurança. |
 | **JWT Token** | Segurança na navegação com uso criptografado de sessão do navegador. |
 
-#### Execução da aplicação
-- Para executar a aplicação é necessário a execução do Script do MySql. 
+#### Executar a aplicação
+- Para executar a aplicação é necessário executar o Script do MySQL. 
 
 #### ⚠️ String de conexão do banco
 
