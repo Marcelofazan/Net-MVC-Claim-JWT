@@ -1,4 +1,4 @@
-## 🌍 Net-Mvc5-Auth-Jwt
+## 🌍 Net-MVC-Auth-Jwt
 
 Exemplo de utilização de AdminLTE na Autorização de Segurança Claims e JWT com geração do Token para Segurança na Navegação em MVC com banco de dados MySQL.
 
