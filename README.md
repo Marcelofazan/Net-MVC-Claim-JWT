@@ -5,8 +5,8 @@ Exemplo de criação de Segurança e Autorização com Claims e geração do Tok
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Layout Responsivo JavaScript e uso de bibliotecas (Plugins).  |
-| **Dicionário de Dados** |  Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
 | **Claims** | Autorização com contexto Header para compartilhar dados da aplicação com segurança. |
+| **Dicionário de Dados** |  Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
 | **JWT Token** | Segurança na navegação com uso criptografado de sessão do navegador. |
 
 #### 📁 Requisitos do Projeto
@@ -30,7 +30,6 @@ adminlte
         |-------| /js
         |-------| /plugins
 ```
-
 
 #### 🔄 Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL. 
